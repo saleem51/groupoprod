@@ -8,7 +8,7 @@ dotenv.config({path: './.env'}); //masquage des informations sensibles comme les
 //const HOST = process.env.HOST;
 
 const HOST = mysql-saleem51.alwaysdata.net 
-const NAME = saleem51
+const NAME = saleem51@2a00:b6e0:1:210:1::1
 const PASS = Tutrouverapa26?
 //Connexion à la base de donnée Mysql
 
